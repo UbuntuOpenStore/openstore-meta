@@ -8,13 +8,12 @@ This is the bug tracker for both the OpenStore site and the app.
 
 * [Code](https://code.launchpad.net/~openstore-team/openstore/trunk)
 * [Bugs](https://github.com/UbuntuOpenStore/openstore-meta/issues)
-* [Translations](https://translations.launchpad.net/openstore)
+* [Translations](https://translate.ubports.com/projects/openstore/openstore-app/)
 * [Get the app](https://open.uappexplorer.com/docs#install)
 
 ## Web
 
 * [Code](https://github.com/UbuntuOpenStore/openstore-web)
 * [Bugs](https://github.com/UbuntuOpenStore/openstore-meta/issues)
-* Translations (Coming soon!)
+* [Translations](https://translate.ubports.com/projects/openstore/openstore-web/)
 * [Submit your apps](https://open.uappexplorer.com/submit)
-
