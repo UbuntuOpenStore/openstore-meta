@@ -6,7 +6,7 @@ This is the bug tracker for both the OpenStore site and the app.
 
 ## App
 
-* [Code](https://code.launchpad.net/~openstore-team/openstore/trunk)
+* [Code](https://github.com/UbuntuOpenStore/openstore-app)
 * [Bugs](https://github.com/UbuntuOpenStore/openstore-meta/issues)
 * [Translations](https://translate.ubports.com/projects/openstore/openstore-app/)
 * [Get the app](https://open.uappexplorer.com/docs#install)
