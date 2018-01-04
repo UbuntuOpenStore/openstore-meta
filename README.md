@@ -1,8 +1,8 @@
 # The OpenStore
 
-An alternative app store for Ubuntu Touch and a place for exploring what is possible with Ubuntu.
+The open source app store for Ubuntu Touch and snaps.
 
-This is the bug tracker for both the OpenStore site and the app.
+This is the bug tracker for the OpenStore website, api, and app.
 
 ## App
 
@@ -15,5 +15,11 @@ This is the bug tracker for both the OpenStore site and the app.
 
 * [Code](https://github.com/UbuntuOpenStore/openstore-web)
 * [Bugs](https://github.com/UbuntuOpenStore/openstore-meta/issues)
-* [Translations](https://translate.ubports.com/projects/openstore/openstore-web/)
+* Translations - coming soon!
 * [Submit your apps](https://open.uappexplorer.com/submit)
+
+## Api
+
+* [Code](https://github.com/UbuntuOpenStore/openstore-api)
+* [Bugs](https://github.com/UbuntuOpenStore/openstore-meta/issues)
+* [Translations](https://translate.ubports.com/projects/openstore/openstore-api/)
