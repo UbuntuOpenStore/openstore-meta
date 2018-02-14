@@ -9,14 +9,14 @@ This is the bug tracker for the OpenStore website, api, and app.
 * [Code](https://github.com/UbuntuOpenStore/openstore-app)
 * [Bugs](https://github.com/UbuntuOpenStore/openstore-meta/issues)
 * [Translations](https://translate.ubports.com/projects/openstore/openstore-app/)
-* [Get the app](https://open.uappexplorer.com/docs#install)
+* [Get the app](https://open-store.io/docs#install)
 
 ## Web
 
 * [Code](https://github.com/UbuntuOpenStore/openstore-web)
 * [Bugs](https://github.com/UbuntuOpenStore/openstore-meta/issues)
 * Translations - coming soon!
-* [Submit your apps](https://open.uappexplorer.com/submit)
+* [Submit your apps](https://open-store.io/submit)
 
 ## Api
 
